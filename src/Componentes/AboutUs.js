@@ -17,9 +17,9 @@ const AboutUs = () => {
                     <div className="btnCompartir">
                         <div className="share-button">
                             <span className="fas fa-share-alt">Siguenos</span>
-                            <a href="#"><i className="fab fa-twitter"></i></a>
-                            <a href="#"><i className="fab fa-facebook-f"></i></a>
-                            <a href="#"><i className="fab fa-instagram"></i></a>
+                            <a href="#home"><i className="fab fa-twitter"></i></a>
+                            <a href="#home"><i className="fab fa-facebook-f"></i></a>
+                            <a href="#home"><i className="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>

@@ -13,7 +13,7 @@ const Cards = () => {
                             <div className="card-body">
                                 <h4 className="card-title">Producto 1</h4>
                                 <p className="card-text">Este producto tiene las caracteristicas descritas en este texto</p>
-                                <a href="#" className="btn btn-primary">Saber mas</a>
+                                <a href="#home" className="btn btn-primary">Saber mas</a>
                             </div>
                     </div>
                 </div>
@@ -24,7 +24,7 @@ const Cards = () => {
                         <div className="card-body">
                             <h4 className="card-title">Producto 2</h4>
                             <p className="card-text">Este producto tiene las caracteristicas descritas en este texto</p>
-                            <a href="#" className="btn btn-primary">Saber mas</a>
+                            <a href="#home" className="btn btn-primary">Saber mas</a>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@ const Cards = () => {
                             <div className="card-body">
                                 <h4 className="card-title">Producto 3</h4>
                                 <p className="card-text">Este producto tiene las caracteristicas descritas en este texto</p>
-                                <a href="#" className="btn btn-primary">Saber mas</a>
+                                <a href="#home" className="btn btn-primary">Saber mas</a>
                             </div>
                     </div>
                 </div>

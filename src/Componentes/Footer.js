@@ -6,7 +6,7 @@ const Footer = () => {
 
         <footer>
             <p>Filagro, Todos los derechos Reservados</p>
-            <img src={farm} style={{height: 50 + 'px'}}></img>
+            <img src={farm} style={{height: 50 + 'px'}} alt="ImagenFooter"></img>
         </footer>
     
      );
